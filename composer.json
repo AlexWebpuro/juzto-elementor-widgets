@@ -1,0 +1,23 @@
+{
+    "name": "alex-monroy/juzto-elementor-addons",
+    "description": "Custom widgets for juzto.co",
+    "version": "1.0.1",
+    "require": {
+        "composer/installers": "*"
+    },
+    "authors": [
+        {
+            "name": "Alex Monroy",
+            "email": "john.monroy@juzto.co"
+        },
+        {
+            "name": "Alex Monroy",
+            "email": "alexwebpuro@alexmonroy.com"
+        }
+    ],
+    "source": {
+        "url": "git@github.com:AlexWebpuro/juzto-elementor-widgets.git",
+        "type": "git",
+        "reference": "master"
+    }
+}

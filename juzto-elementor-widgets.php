@@ -4,7 +4,7 @@
  * Plugin Name: Juzto Elementor Widgets
  * Description: Custom widgets for juzto.co
  * Plugin URI:  https://www.alexmonroy.com/
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Alex Monroy
  * Author URI:  https://alexmonroy.com/
  * Text Domain: juzto-elementor-widgets
